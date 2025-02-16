@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Subhajit Ghosh
+- 👋 Hi, I’m Subhajit Ghosh 🙃
 - 👀 I’m interested in artificial intelligence, data science, data analysis, and project management.
 - 🌱 I’m currently learning about machine learning algorithms and deep learning frameworks.
 - 💞️ I’m looking to collaborate on innovative AI projects, open-source contributions, data analysis initiatives, or anything that challenges the norm!
