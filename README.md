@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on innovative AI projects, open-source contributions, data analysis initiatives, or anything that challenges the norm!
 - 📫 How to reach me: You can connect with me on LinkedIn or via email at subhajitghosh7590@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once hiked 75 kilometers in a weekend and discovered my love for nature photography!
+- ⚡ Fun fact: I once hiked 75 kilometers over three weeks and discovered my love for nature photography!
 
 <!---
 Subhajit75/Subhajit75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
